@@ -11,8 +11,9 @@ This is the code for a model that recognizes handwritten digit images (MNIST).  
 ```sudo pip install -r requirements.txt```
 ## Demo Video
 ## Input
+<a href="https://www.youtube.com/watch?v=f-9PaJe8CPc&feature=youtu.be">
 <img src="https://github.com/rishab-sharma/android_to_dl/blob/master/imag2.jpeg" data-canonical-src="https://github.com/rishab-sharma/android_to_dl/blob/master/imag2.jpeg" width="300" height="400" />
-
+</a>
 ## Output
 
 <img src="https://github.com/rishab-sharma/android_to_dl/blob/master/imag1.jpeg" data-canonical-src="https://github.com/rishab-sharma/android_to_dl/blob/master/imag1.jpeg" width="300" height="400" />
